@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Desi Defence</title>
+  <style>
+    body {
+      font-family: 'Tahoma', sans-serif;
+      background: #f2f2f2;
+      color: #111;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+    }
+
+    header {
+      background: #002244;
+      color: white;
+      text-align: center;
+      padding: 20px 10px;
+    }
+
+    header img {
+      width: 100px;
+      height: auto;
+      margin-bottom: 10px;
+    }
+
+    nav {
+      background: #004466;
+      text-align: center;
+      padding: 10px;
+    }
+
+    nav a {
+      color: white;
+      margin: 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    main {
+      padding: 20px;
+    }
+
+    .post {
+      background: white;
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    footer {
+      background: #002244;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="logo.png" alt="Desi Defence Logo">
+  <h1>Desi Defence</h1>
+  <p>پاکستان اور بھارت کے درمیان دفاعی تجزیے</p>
+</header>
+
+<nav>
+  <a href="#">صفحۂ اول</a>
+  <a href="#">خبریں</a>
+  <a href="#">تجزیے</a>
+  <a href="#">رابطہ کریں</a>
+</nav>
+
+<main>
+  <div class="post">
+    <h2>2025 کی پاک بھارت جنگ؟</h2>
+    <p>تجزیہ: کیا دونوں ممالک ایک اور تصادم کی طرف بڑھ رہے ہیں؟ مکمل رپورٹ یہاں پڑھیں۔</p>
+  </div>
+
+  <div class="post">
+    <h2>نئے دفاعی معاہدے</h2>
+    <p>پاکستان نے اہم بین الاقوامی دفاعی معاہدے پر دستخط کیے ہیں۔</p>
+  </div>
+</main>
+
+<footer>
+  © 2025 Desi Defence - تمام حقوق محفوظ ہیں۔
+</footer>
+
+</body>
+</html>
